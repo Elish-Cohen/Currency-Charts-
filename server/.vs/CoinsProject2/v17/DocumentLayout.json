@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gtgn1yumujoe\\coinsproject2\\coinsproject2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|solutionrelative:coinsproject2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gtgn1yumujoe\\coinsproject2\\coinsproject2\\controllers\\coinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|solutionrelative:coinsproject2\\controllers\\coinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gtgn1yumujoe\\coinsproject2\\coinsproject2\\models\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|solutionrelative:coinsproject2\\models\\coins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gtgn1yumujoe\\coinsproject2\\coinsproject2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|solutionrelative:coinsproject2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gtgn1yumujoe\\coinsproject2\\coinsproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A4DF0-B3A1-4ED9-9985-78C33BE784A4}|CoinsProject2\\CoinsProject2.csproj|solutionrelative:coinsproject2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinsController.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Controllers\\CoinsController.cs",
+              "RelativeDocumentMoniker": "CoinsProject2\\Controllers\\CoinsController.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Controllers\\CoinsController.cs",
+              "RelativeToolTip": "CoinsProject2\\Controllers\\CoinsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:29:42.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\appsettings.json",
+              "RelativeDocumentMoniker": "CoinsProject2\\appsettings.json",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\appsettings.json",
+              "RelativeToolTip": "CoinsProject2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T21:29:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coins.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Models\\Coins.cs",
+              "RelativeDocumentMoniker": "CoinsProject2\\Models\\Coins.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Models\\Coins.cs",
+              "RelativeToolTip": "CoinsProject2\\Models\\Coins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:29:42.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Program.cs",
+              "RelativeDocumentMoniker": "CoinsProject2\\Program.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Program.cs",
+              "RelativeToolTip": "CoinsProject2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:29:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoinsProject2\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoinsProject2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T21:29:42.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

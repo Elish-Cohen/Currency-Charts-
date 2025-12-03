@@ -1,0 +1,7 @@
+<div class="inline-item ">
+  <select (change)="selectRange($event)">
+     <option disabled selected hidden> בחר טווח זמן </option>
+    <option *ngFor="let range of ranges "[value]="range.value">{{range.value}}</option>
+  </select>
+  
+  </div>

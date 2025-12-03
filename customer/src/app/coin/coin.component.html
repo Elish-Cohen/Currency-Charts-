@@ -1,0 +1,11 @@
+<!-- <select (change)="selectCoin($event.target.value)">
+    <option *ngFor="let coin of coins" [value]="coin">{{ coin }}</option>
+  </select>
+   -->
+  <div class="inline-item ">
+   <select (change)="onCoinChange($event)">
+     <option disabled selected hidden> בחר מטבע </option>
+    <option *ngFor="let coin of coins" [value]="coin">{{ coin }}</option>
+  </select>
+  </div>
+  

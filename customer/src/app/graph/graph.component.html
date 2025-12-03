@@ -1,0 +1,21 @@
+<!-- <echarts [options]="chartOptions" class="demo-chart" ></echarts> -->
+<div class="seconsE">
+<div class="controls">
+<div class="inline-item">
+  <select   [(ngModel)]="chartType">
+     <option value="" disabled selected hidden> בחר סוג גרף </option>
+    <option value="line">קו</option>
+    <option value="bar">עמודות</option>
+    <option value="pie">עוגה</option>
+  </select>
+</div>
+<div>
+<button (click)="showGraph=true" (click)="ngOnChanges()" >הצג גרף</button>
+
+</div>
+<div *ngIf="loading"  class="spinner"></div>
+<div *ngIf="!loading" >
+  <echarts [options]="chartOptions" class="demo-chart"></echarts>
+</div>
+</div>
+

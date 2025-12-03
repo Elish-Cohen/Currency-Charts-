@@ -1,0 +1,130 @@
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.exe
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.deps.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.pdb
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\scopedcss\bundle\CoinsProject2.styles.css
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\refint\CoinsProject2.dll
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.pdb
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים תשפה\NETCORE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\ref\CoinsProject2.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.exe
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.deps.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.runtimeconfig.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.pdb
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.AssemblyReference.cache
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfoInputs.cache
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfo.cs
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.CoreCompileInputs.cache
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.CoinsProject2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.CoinsProject2.props
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoinsProject2.props
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoinsProject2.props
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\scopedcss\bundle\CoinsProject2.styles.css
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsPro.928E93B1.Up2Date
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\refint\CoinsProject2.dll
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.pdb
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.genruntimeconfig.cache
+D:\Users\user\Downloads\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\ref\CoinsProject2.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.Development.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.staticwebassets.endpoints.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.exe
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.deps.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.runtimeconfig.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.pdb
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.AssemblyReference.cache
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfoInputs.cache
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfo.cs
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.CoreCompileInputs.cache
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\scopedcss\bundle\CoinsProject2.styles.css
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.build.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.development.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.CoinsProject2.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.CoinsProject2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.CoinsProject2.props
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoinsProject2.props
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoinsProject2.props
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.pack.json
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsPro.928E93B1.Up2Date
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\refint\CoinsProject2.dll
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.pdb
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.genruntimeconfig.cache
+F:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\ref\CoinsProject2.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.Development.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\appsettings.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.exe
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.deps.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.runtimeconfig.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\CoinsProject2.pdb
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.AssemblyReference.cache
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfoInputs.cache
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.AssemblyInfo.cs
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.csproj.CoreCompileInputs.cache
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cs
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.build.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.development.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.CoinsProject2.Microsoft.AspNetCore.StaticWebAssets.props
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.build.CoinsProject2.props
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoinsProject2.props
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoinsProject2.props
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\staticwebassets.pack.json
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\scopedcss\bundle\CoinsProject2.styles.css
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsPro.928E93B1.Up2Date
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\refint\CoinsProject2.dll
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.pdb
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.genruntimeconfig.cache
+H:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\ref\CoinsProject2.dll
+D:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.dll
+D:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\refint\CoinsProject2.dll
+D:\פרויקט אנגולר\jm_gr1gTgN1yUmujOE\CoinsProject2\CoinsProject2\obj\Debug\net6.0\CoinsProject2.pdb

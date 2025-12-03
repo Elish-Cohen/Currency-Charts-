@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBxm2bVAwCQ=",
+  "success": false,
+  "projectFilePath": "D:\\פרויקט אנגולר\\jm_gr1gTgN1yUmujOE\\CoinsProject2\\CoinsProject2\\CoinsProject2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Swashbuckle.AspNetCore"
+    }
+  ]
+}

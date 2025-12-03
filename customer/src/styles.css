@@ -1,0 +1,41 @@
+
+
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 97.5vh;
+  background: url('app/assest/globus.png') no-repeat center center;
+  background-size: cover;
+  padding: 20px;
+  direction: rtl;
+  padding: 0;
+}
+
+/* אלמנטים בשורה אחת */
+.inline-elements {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+ select,button {
+  padding: 10px 15px;
+  font-size: 16px;
+  background: linear-gradient(45deg, #fff2cc, #ffd966);
+  border: none;
+  border-radius: 8px;
+  color: #000;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  cursor: pointer;
+  min-width: 150px;
+  
+  
+}
+
+.inline-item select:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(255, 140, 0, 0.3);
+}
