@@ -54,7 +54,6 @@ export class GraphComponent implements OnChanges {
           const min = Math.min(...allPrices);
           const max = Math.max(...allPrices);
           console.log('data', data);
-          // פילטור תאריכים לפי טווח נבחר
           let dates = allDates;
           let prices = allPrices;
 
@@ -97,8 +96,8 @@ export class GraphComponent implements OnChanges {
                 ? undefined
                 : {
                     type: 'value',
-                    min: Math.floor(min * 0.95 * 100) / 100, // קצת מתחת למינימום
-                    max: Math.ceil(max * 1.05 * 100) / 100, // קצת מעל למקסימום
+                    min: Math.floor(min * 0.95 * 100) / 100,
+                    max: Math.ceil(max * 1.05 * 100) / 100, 
                     splitNumber: 8,
                   },
             series: [
@@ -128,8 +127,8 @@ export class GraphComponent implements OnChanges {
                               1,
                               0,
                               [
-                                { offset: 0, color: '#fff2cc' }, // זהב בהיר מאוד
-                                { offset: 1, color: '#ffd966' }, // זהב נעים
+                                { offset: 0, color: '#fff2cc' }, 
+                                { offset: 1, color: '#ffd966' }, 
                               ]
                             ),
                           }

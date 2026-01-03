@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\CoinsProject2.props" />
-</Project>
